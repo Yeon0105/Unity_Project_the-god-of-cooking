@@ -1,4 +1,4 @@
-## :video_game:&nbsp;&nbsp;**Unity_Project_the-god-of-cooking (유니티 프로젝트 요리의 신)**&nbsp;&nbsp;:video_game:			
+## :video_game:&nbsp;&nbsp;**유니티 프로젝트 요리의 신**&nbsp;&nbsp;:video_game:			
 
 **\- Team Member :** 윤희연, 박세은, 최애림
 
