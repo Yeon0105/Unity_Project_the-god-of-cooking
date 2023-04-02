@@ -14,7 +14,7 @@
  |<img width="270" alt="햄버거 게임" src="https://user-images.githubusercontent.com/101172040/201835580-7e2e3ed1-739e-4b8c-aa06-67fdb09ec7e8.png"> |<img width="270" alt="중식 조합 맞추기 게임" src="https://user-images.githubusercontent.com/101172040/201835736-ffd8bffb-88b0-40e9-9e6e-2e487d50baca.png">|<img width="270" alt="잡채 만들기 게임" src="https://user-images.githubusercontent.com/101172040/201835783-233e871b-f72a-44ed-930f-976b97be2029.png">|
 |:-----:|:----------:|:-------:
 |햄버거 게임|중식 조합 맞추기 게임|잡채 만들기 게임|
-
+*****
 <h2>주요 구현 기능</h2>       
 
 **1. 햄버거 쌓기 게임 :**
@@ -69,7 +69,6 @@
 </details>				
 	
 	
-*****
 	
 	
 **2. Canvas를 이용한 NPC 대화 창 및 버튼 클릭 이벤트(장면 전환 등) 코드 구현**					
@@ -129,7 +128,7 @@
 	```
 </details>
 		
-		
+*****		
 		
 <h2>특징</h2>
 
@@ -141,7 +140,7 @@
 
 3. Canvas를 이용한 NPC 대화 창 및 버튼 클릭 이벤트 코드 구현
 
-		
+*****		
 		
 <h2>구현시 어려웠던 점</h2>
 
